@@ -49,3 +49,30 @@ header {
     padding-left: 20px;
 }
 /* / section paragraph */
+
+/* section table */
+table {
+    font-size: 20px;
+}
+
+.head {
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+}
+
+.first-column,.second-column {
+    width: 25%;
+
+}
+
+.third-column {
+    width: 50%;
+}
+
+.bluerow {
+    background-color: #B1E5F2;
+}
+
+/* / section table */
+
