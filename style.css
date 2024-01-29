@@ -1,3 +1,4 @@
+/* header */
 header {
     height: 110px;
     background-color: #4EA0FF;
@@ -10,3 +11,28 @@ header {
     width: 15%;
     padding: 45px 0px 0px 10px;
 }
+/* /header */
+
+/* Title, author and date  */
+.upper-section > h1 {
+    font-size: 50px;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.upper-section > .author {
+    font-size: 25px;
+    color: #808080;
+}
+
+.upper-section > .date {
+    font-size: 20px;
+    color: #808080;
+}
+
+.link-style {
+    text-decoration: none;
+    color:  #20A9E5;
+}
+/* / Title, author and date  */
+
