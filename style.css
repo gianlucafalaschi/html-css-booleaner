@@ -36,3 +36,16 @@ header {
 }
 /* / Title, author and date  */
 
+/* section paragraph */
+.paragraph {
+    font-size: 20px;
+}
+
+.highlight{
+    background-color:yellow;
+}
+
+.list {
+    padding-left: 20px;
+}
+/* / section paragraph */
