@@ -85,3 +85,35 @@ table {
     background-color: yellow;
 }
 /* / section paragraph2 */
+
+/* section potrebbero interessarti */
+#greytext{
+    color: #808080;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.box-1 {
+    margin-top: 10px;
+    width: 312px;
+    height: 208px;
+    background-image: url(img/monitor.jpg);
+    background-size: contain;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.box-2 {
+    margin-top: 10px;
+    width: 312px;
+    height: 208px;
+    background-image: url(img/graph.jpg);
+    background-size: contain;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+/*/ section potrebbero interessarti */
