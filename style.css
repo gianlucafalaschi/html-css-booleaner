@@ -76,3 +76,12 @@ table {
 
 /* / section table */
 
+/* section paragraph2 */
+.paragraph-2 {
+    font-size: 20px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+/* / section paragraph2 */
