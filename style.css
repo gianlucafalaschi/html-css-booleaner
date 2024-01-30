@@ -1,10 +1,14 @@
+.container {
+    max-width: 1100px;
+    margin: auto;
+}
+
 /* header */
 header {
     height: 110px;
     background-color: #4EA0FF;
     background-image: url(./img/pattern.png);
-    background-size: contain;
-
+    background-size: 400px;
 }
 
 #logo {
@@ -53,7 +57,7 @@ header {
 /* section table */
 table {
     font-size: 20px;
-    border-spacing: 0;
+    border-collapse: collapse;
 }
 
 
