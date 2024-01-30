@@ -53,7 +53,10 @@ header {
 /* section table */
 table {
     font-size: 20px;
+    border-spacing: 0;
 }
+
+
 
 .head {
     background-color: #20A9E5;
